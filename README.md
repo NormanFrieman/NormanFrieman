@@ -1,16 +1,14 @@
-### Hi there 👋
+## About me
+- :blue_book: <strong>Computer science</strong> student at [UFES](https://www.ufes.br/)
+- :computer: Random project developer in his spare time
 
-<!--
-**NormanFrieman/NormanFrieman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Where to find me
 
-Here are some ideas to get you started:
+[![Linkedin: Ezequiel Demetras](https://img.shields.io/badge/-Ezequiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-demetras)](https://www.linkedin.com/in/ezequiel-demetras)
+[![Ezequiel Demetras]( https://img.shields.io/github/followers/NormanFrieman?label=follow&style=social)](https://github.com/NormanFrieman)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Status
+
+[![card](https://github-readme-stats.vercel.app/api?username=NormanFrieman&theme=dark)](https://github.com/NormanFrieman/)
+
+[![NormanFrieman](https://github-readme-stats.vercel.app/api/top-langs/?username=NormanFrieman&hide=html&layout=compact&theme=dark)](https://github.com/NormanFrieman/)
