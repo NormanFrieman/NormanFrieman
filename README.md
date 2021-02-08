@@ -10,5 +10,3 @@
 ## GitHub Status
 
 [![card](https://github-readme-stats.vercel.app/api?username=NormanFrieman&theme=dark)](https://github.com/NormanFrieman/)
-
-[![NormanFrieman](https://github-readme-stats.vercel.app/api/top-langs/?username=NormanFrieman&hide=html&layout=compact&theme=dark)](https://github.com/NormanFrieman/)
