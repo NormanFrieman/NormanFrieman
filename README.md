@@ -1,5 +1,6 @@
 ## About me
 - :blue_book: <strong>Computer science</strong> student at [UFES](https://www.ufes.br/)
+- :office: Web development trainee at [AEVO](https://aevo.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=5_aevo_branding&utm_term=%7Bkeyword%7D&utm_content=link&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLXGGwD5TITLFLFBJhoU6bwFgFuXS0Tz0VUtcc8CmTEvuVqUq8pikJRoCJeAQAvD_BwE)
 - :computer: Random project developer in his spare time
 
 ## Where to find me
