@@ -3,8 +3,6 @@
 - :office: <strong>Web Developer</strong> at [AEVO](https://aevo.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=5_aevo_branding&utm_term=%7Bkeyword%7D&utm_content=link&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLXGGwD5TITLFLFBJhoU6bwFgFuXS0Tz0VUtcc8CmTEvuVqUq8pikJRoCJeAQAvD_BwE)
 - :computer: Random project developer in his spare time
 
-<img src="https://www.codewars.com/users/NormanFrieman/badges/small"/>
-
 ## Where to find me
 
 [![Linkedin: Ezequiel Demetras](https://img.shields.io/badge/-Ezequiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-demetras)](https://www.linkedin.com/in/ezequiel-demetras)
